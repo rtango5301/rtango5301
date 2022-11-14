@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rtango5301
+- 👋 Hi, I’m Rishabh Tiwari
 - 👀 I’m interested in SOFTWARE DEVELOPMENT
 - 🌱 I’m currently learning FULL STACK WEB DEVELOPMENT
 - 💞️ I’m looking to collaborate on HTML CSS JS projects
