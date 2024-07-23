@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rishabh Tiwari
-- 👀 I’m interested in SOFTWARE DEVELOPMENT
-- 🌱 I’m currently learning FULL STACK WEB DEVELOPMENT
-- 💞️ I’m looking to collaborate on HTML CSS JS projects
+- 👀 I’m a Software Developer
+- 🌱 I’m skilled in Python, LLM/NLP/Computer-Vision/AI, MERN Stack, DSA and AWS
+- 💞️ I’m looking to collaborate on MERN/AI projects
 - 📫 How to reach me - E-mail : rish5301@gmail.com 
 
 <!---
