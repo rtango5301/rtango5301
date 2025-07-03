@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rishabh Tiwari
-- 👀 I’m a Software Developer at Gemini Solutions Pvt Ltd
-- 🌱 I’m skilled in Java, Spring Boot, Python, DSA and AWS-Cloud.
-- 💞️ I’m looking to collaborate on Java Backend/Full Stack/AI projects
+- 👀 I’m a Software Developer II at Cashify
+- 🌱 I’m skilled in Java, Spring Boot, Python, Flask, PostgreSQL, DSA
+- 💞️ I’m looking to collaborate on Python/Java and AI-ML projects
 - 📫 How to reach me - E-mail : rish5301@gmail.com 
 
 <!---
